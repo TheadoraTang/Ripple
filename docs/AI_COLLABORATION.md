@@ -680,3 +680,11 @@
 - Added a retry path for embedding providers that reject `dimensions`, allowing the request to fall back to the provider's native output dimension and then rely on the existing vector length check.
 - Restored the Electron application menu with standard app/edit/view/window roles so macOS system edit shortcuts such as Cmd+C and Cmd+V work in the desktop app.
 - Changed the reader sidebar tag panel's first-run default state from expanded to collapsed while preserving any saved user preference in localStorage.
+
+## 2026-07-31（项目经历简历表述）
+
+- 使用 AI Coding Agent 基于仓库 README、技术架构、提交记录及个人周报，整理 RSSReader/Ripple 的中文简历项目经历。
+- 将项目负责人、RSS/Atom 后端链路、大数据量阅读优化、OPML 流式导入与 AI 标签能力压缩为成果导向的 Bullet 表述。
+- 对强动词与量化信息进行证据审计，未使用“独立开发”、虚构性能比例或无法由当前仓库验证的测试通过数量。
+- 当前限制：尚未提供目标岗位 JD、项目起止时间和线上用户/性能指标，后续需按具体岗位进一步定制关键词与量化口径。
+- 根据用户反馈进一步调整简历表述：弱化协作流程描述，改为带四字内标题的四条 Bullet，集中呈现桌面架构、订阅同步、阅读性能与 AI 能力的功能、技术方法和成果特色。
